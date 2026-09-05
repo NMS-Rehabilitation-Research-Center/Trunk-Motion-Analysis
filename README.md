@@ -147,7 +147,7 @@ A 2023 study on ROM detection using MediaPipe for flexion-extension and abductio
 | Asaeda et al. (2026) | Postural tracking in Parkinson's disease | ICC = 0.96–0.98 for trunk flexion, 0.80 for lateral flexion with calibration [citation:2] |
 | Ferraris et al. (2025) | Comparative evaluation of MP models | 2D models excellent for frontal plane; 3D models require caution [citation:3] |
 | Ferraris et al. (2026) | RGB-D vs RGB-only in Parkinson's | Low/medium MP models reliably discriminate postural severity clusters [citation:5] |
-| ETH Zurich Study (2025) | Trunk compensation detection | 92% accuracy in detecting compensatory trunk movements [citation:1] |
+| Amura et.al (2025) | Trunk compensation detection | 95% accuracy in detecting compensatory human movements [citation:1] |
 | Kim et al. (2026) | Smartphone trunk feedback system | 37.9% reduction in trunk path length [citation:4] |
 | IEEE ROM Study (2023) | ROM detection with MediaPipe | 27% system error for trunk flexion-extension [citation:9] |
 | Wagh et al. (2025) | Upper-limb tracking after stroke | MediaPipe feasible for tracking trunk contributions to reaching [citation:8] |
