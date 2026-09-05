@@ -156,7 +156,7 @@ A 2023 study on ROM detection using MediaPipe for flexion-extension and abductio
 
 ## 6. References
 
-1. Lin, H.P. (2025). Integrating markerless compensatory detection system with near real-time multi-modal feedback to address trunk flexion during reaching tasks. ETH Zurich Research Collection. [citation:1]
+1. Amura Larche , et al. (2025) . Reliability and validity analysis of MediaPipe-based measurement system for some human rehabilitation motions 10.1016/j.measurement.2023.112826. [citation:1]
 
 2. Asaeda, et al. (2026). Continuous video-based postural tracking for Parkinson's disease using MediaPipe pose estimation with landmark calibration. *Journal of Physical Therapy Science*, 38(6):270-280. [citation:2]
 
